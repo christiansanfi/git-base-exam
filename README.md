@@ -17,7 +17,7 @@ Riportare i comandi git usati sul file onenote dell'esame insieme all'url del re
 ************
 LOG COMPLETO
 ************
-
+#
 sanch@PChris MINGW64 ~/OneDrive/Desktop/Lavoro/Esame git
 $ git clone https://github.com/christiansanfi/git-base-exam.git
 Cloning into 'git-base-exam'...
@@ -482,7 +482,7 @@ Writing objects: 100% (1/1), 232 bytes | 232.00 KiB/s, done.
 Total 1 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 To https://github.com/christiansanfi/git-base-exam.git
    a33de0a..2c8af9c  master -> master
-
+#
 sanch@PChris MINGW64 ~/OneDrive/Desktop/Lavoro/Esame git/git-base-exam/commedia (master)
 $ git status
 On branch master
